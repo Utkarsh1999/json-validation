@@ -4,7 +4,7 @@ JSON Validation
 JSON Validation is a media type for describing and validating the structure of
 JSON data. Over the years, I've written a lot of JSON Schemas and helped others
 in all kinds of domains write their JSON Schemas. JSON Validation is a
-re-imaginging of JSON Schema based on my experiences and knowledge. In part,
+re-imagining of JSON Schema based on my experiences and knowledge. In part,
 it's an implementation of how I would define JSON Schema if given a blank slate,
 but mostly I'm using this implementation as a sandbox to try out new ideas and
 approaches to the JSON Schema style.
